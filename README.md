@@ -87,6 +87,6 @@ GitHub will generate a live link (e.g., `https://github.com/SANDEEPmehra01/Pathf
 
 ### Contact  
 For any inquiries, feel free to reach out:  
-📧 **Email**: worksandeep22@gmail.com  
+📧 **Email**: rakeshjoshi954896@gmail.com  
 
 Feel free to fork the repository, contribute, or use this project to learn about pathfinding algorithms! 🎉
